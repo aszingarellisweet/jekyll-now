@@ -196,15 +196,15 @@ img {
   cursor: pointer;
   font-family: $helveticaNeue;
   font-weight: lighter;
-  font-size: 42px;
+  font-size: 46px;
   letter-spacing: 1px;
 }
 
 .site-description {
-	float: right;
+  float: right;
   margin: -5px 0 0 0;
   color: $gray;
-  font-size: 20px;
+  font-size: 18px;
 
   @include mobile {
     margin: 3px 0;
@@ -213,10 +213,10 @@ img {
 
 nav {
   float: right;
-  margin-top: 28px; // @TODO: Vertically middle align
+  margin-top: 72px; // @TODO: Vertically middle align
   color: $gray;
   font-family: $helveticaNeue;
-  font-size: 20px;
+  font-size: 22px;
 
   @include mobile {
     float: none;
@@ -285,7 +285,6 @@ footer {
   text-align: center;
 }
 
-// Settled on moving the import of syntax highlighting to the bottom of the CSS
-// ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
+//Import of syntax highlighting
 @import "highlights";
 @import "svg-icons";
