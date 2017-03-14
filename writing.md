@@ -3,4 +3,4 @@ layout: page
 title: Writing
 permalink: /writing/
 ---
-Publications go here.
+Blog posts and reviews go here.
