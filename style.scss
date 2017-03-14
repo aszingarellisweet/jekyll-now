@@ -197,14 +197,14 @@ img {
   cursor: pointer;
   font-family: $helveticaNeue;
   font-weight: lighter;
-  font-size: 36px;
+  font-size: 48px;
   letter-spacing: 1px;
 }
 
 .site-description {
   margin: -5px 0 0 0;
   color: $wheat;
-  font-size: 18px;
+  font-size: 24px;
 	font-weight: lighter;
 
   @include mobile {
@@ -216,7 +216,7 @@ nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
   font-family: $helveticaNeue;
-  font-size: 18px;
+  font-size: 24px;
 	font-weight: lighter;
 
   @include mobile {
