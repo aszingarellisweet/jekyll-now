@@ -151,7 +151,7 @@ img {
 //
 
 .wrapper-masthead {
-  margin-bottom: 50px;
+  margin-bottom: 60px;
 }
 
 .masthead {
@@ -191,6 +191,7 @@ img {
 }
 
 .site-name {
+	float: right;
   margin: 0;
   color: $black;
   cursor: pointer;
@@ -202,8 +203,10 @@ img {
 
 .site-description {
   float: right;
-  margin: -5px 0 0 0;
+  margin: 0;
   color: $gray;
+  font-family: $helveticaNeue;
+  font-weight: lighter;
   font-size: 18px;
 
   @include mobile {
@@ -213,9 +216,10 @@ img {
 
 nav {
   float: right;
-  margin-top: 72px; // @TODO: Vertically middle align
+  margin-top: 90px;
   color: $gray;
   font-family: $helveticaNeue;
+  font-weight: lighter;
   font-size: 22px;
 
   @include mobile {
@@ -229,7 +233,7 @@ nav {
     margin-left: 20px;
     color: $darkGray;
     text-align: right;
-    font-weight: 300;
+    font-weight: lighter;
     letter-spacing: 1px;
 
     @include mobile {
