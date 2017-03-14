@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hello!
-permalink: /about/
+title: Work
+permalink: /work/
 ---
 Work experience and professional development go here.
