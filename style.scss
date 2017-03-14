@@ -196,14 +196,15 @@ img {
   cursor: pointer;
   font-family: $helveticaNeue;
   font-weight: lighter;
-  font-size: 38px;
+  font-size: 42px;
   letter-spacing: 1px;
 }
 
 .site-description {
+	float: right;
   margin: -5px 0 0 0;
   color: $gray;
-  font-size: 22px;
+  font-size: 20px;
 
   @include mobile {
     margin: 3px 0;
@@ -211,10 +212,10 @@ img {
 }
 
 nav {
-  float: right;
-  margin-top: 23px; // @TODO: Vertically middle align
+  margin-top: 28px; // @TODO: Vertically middle align
+	color: $gray;
   font-family: $helveticaNeue;
-  font-size: 22px;
+  font-size: 20px;
 
   @include mobile {
     float: none;
