@@ -19,7 +19,7 @@ html {
 
 body {
 	background: $white;
-  font: 18px/1.4 $helveticaNeueLight;
+  font: 18px/1.4 $helveticaNeue;
   color: $darkGray;
 }
 
@@ -31,9 +31,9 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $helveticaNeueLight;
+  font-family: $helveticaNeue;
   color: $darkerGray;
-  font-weight: bold;
+  font-weight: light;
 
   line-height: 1.7;
   margin: 1em 0 15px;
