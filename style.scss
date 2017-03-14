@@ -21,7 +21,7 @@ body {
 	background: $white;
   font: 18px/1.4 $helveticaNeue;
   color: $black;
-	font-weight: lighter;
+  font-weight: $lighter;
 }
 
 .container {
@@ -33,8 +33,8 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
-  color: $black;
-  font-weight: normal;
+  color: $darkerGray;
+  font-weight: lighter;
 
   line-height: 1.7;
   margin: 1em 0 15px;
@@ -62,7 +62,7 @@ h3 {
 
 h4 {
   font-size: 18px;
-  color: $darkGray;
+  color: $gray;
 }
 
 p {
@@ -157,7 +157,7 @@ img {
 
 .masthead {
   padding: 20px 0;
-  border-bottom: 1px solid $gainsboro;
+  border-bottom: 1px solid $lightGray;
 
   @include mobile {
     text-align: center;
@@ -203,9 +203,9 @@ img {
 
 .site-description {
   margin: -5px 0 0 0;
-  color: $wheat;
+  color: $gray;
   font-size: 24px;
-	font-weight: lighter;
+  font-weight: lighter;
 
   @include mobile {
     margin: 3px 0;
@@ -217,7 +217,7 @@ nav {
   margin-top: 23px; // @TODO: Vertically middle align
   font-family: $helveticaNeue;
   font-size: 24px;
-	font-weight: lighter;
+  font-weight:  lighter;
 
   @include mobile {
     float: none;
@@ -228,7 +228,7 @@ nav {
 
   a {
     margin-left: 20px;
-    color: $black;
+    color: $darkGray;
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
@@ -257,9 +257,9 @@ nav {
 .post {
   blockquote {
     margin: 1.8em .8em;
-    border-left: 2px solid $gainsboro;
+    border-left: 2px solid $gray;
     padding: 0.1em 1em;
-    color: $gainsboro;
+    color: $gray;
     font-size: 22px;
     font-style: italic;
   }
@@ -278,7 +278,7 @@ nav {
   margin-top: 50px;
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
-  background-color: $gainsboro;
+  background-color: $lightGray;
 }
 
 footer {
