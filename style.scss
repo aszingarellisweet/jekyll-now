@@ -217,7 +217,7 @@ img {
 
 nav {
   float: right;
-  margin-top: 104px;
+  margin-top: 84px;
   color: $black;
   font-family: $helveticaNeue;
   font-weight: lighter;
@@ -232,14 +232,14 @@ nav {
 
   a {
     margin-left: 20px;
-    color: $green;
+    color: $black;
     text-align: right;
     font-weight: lighter;
     letter-spacing: 1px;
 
     @include mobile {
       margin: 0 10px;
-      color: $green;
+      color: $black;
     }
   }
 }
