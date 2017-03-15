@@ -19,7 +19,7 @@ html {
 
 body {
 	background: $white;
-  font: 16px/1.4 $helveticaNeue;
+  font: 16px/1.25 $helveticaNeue;
   color: $black;
   font-weight: 100;
 }
@@ -34,9 +34,9 @@ body {
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
   color: $black;
-  font-weight: 150;
+  font-weight: 100;
 
-  line-height: 1.25;
+  line-height: 1.0;
   margin: 1em 0 15px;
   padding: 0;
 
@@ -234,7 +234,7 @@ nav {
     margin-right: 20px;
     color: $gray;
     text-align: left;
-    font-weight: lighter;
+    font-weight: 100;
     letter-spacing: 1px;
 
     @include mobile {
