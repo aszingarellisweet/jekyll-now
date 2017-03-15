@@ -165,8 +165,8 @@ img {
 
 .site-avatar {
   float: left;
-  width: 100px;
-  height: 100px;
+  width: 120px;
+  height: 120px;
   margin-right: 12px;
 
   @include mobile {
@@ -225,6 +225,7 @@ nav {
   }
 
   a {
+    margin-right: 20px;
     color: $gray;
     text-align: left;
     font-weight: lighter;
