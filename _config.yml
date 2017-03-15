@@ -9,27 +9,18 @@ name: Anna-Sophia Zingarelli-Sweet
 description: special collections   +   metadata   +   climate change
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://aszingarellisweet.github.io/images/img_14761_compressed.jpg
+avatar: https://aszingarellisweet.github.io/images/IMG_5144_compressed.jpg
 #
 # Flags below are optional
 #
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  dribbble:
   email: aszingarellisweet@gmail.com
-  facebook:
-  flickr:
   github: aszingarellisweet
-  instagram:
   linkedin: aszingarellisweet
-  pinterest:
-  rss:
   twitter: aszingarelli
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: # anything in your profile username that comes after plus.google.com/
-
+  
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
@@ -69,7 +60,7 @@ kramdown:
 
 # Set the Sass partials directory, as we're using @imports
 sass:
-  style: :expanded # You might prefer to minify using :compressed
+  style: :compressed # You might prefer to minify using :compressed
 
 # Use the following plug-ins
 gems:
