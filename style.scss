@@ -62,7 +62,7 @@ h3 {
 
 h4 {
   font-size: 18px;
-  color: $darkGreen;
+  color: $green;
 }
 
 p {
@@ -70,11 +70,11 @@ p {
 }
 
 a {
-  color: $darkGreen;
+  color: $green;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $darkGreen;
+    color: $green;
   }
 }
 
@@ -197,7 +197,7 @@ img {
   color: $black;
   cursor: pointer;
   font-family: $helveticaNeue;
-  font-weight: normal;
+  font-weight: lighter;
   font-size: 52px;
   letter-spacing: 1px;
 }
@@ -205,7 +205,7 @@ img {
 .site-description {
   float: right;
   margin: 0;
-  color: $darkGreen;
+  color: $green;
   font-family: $helveticaNeue;
   font-weight: lighter;
   font-size: 22px;
@@ -220,7 +220,7 @@ nav {
   margin-top: 104px;
   color: $black;
   font-family: $helveticaNeue;
-  font-weight: normal;
+  font-weight: lighter;
   font-size: 32px;
 
   @include mobile {
@@ -232,14 +232,14 @@ nav {
 
   a {
     margin-left: 20px;
-    color: $darkGray;
+    color: $green;
     text-align: right;
     font-weight: lighter;
     letter-spacing: 1px;
 
     @include mobile {
       margin: 0 10px;
-      color: $darkGray;
+      color: $green;
     }
   }
 }
