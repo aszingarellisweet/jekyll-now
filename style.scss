@@ -62,7 +62,7 @@ h3 {
 
 h4 {
   font-size: 18px;
-  color: $oliveDrab;
+  color: $darkGreen;
 }
 
 p {
@@ -70,11 +70,11 @@ p {
 }
 
 a {
-  color: $oliveDrab;
+  color: $darkGreen;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $oliveDrab;
+    color: $darkGreen;
   }
 }
 
@@ -157,7 +157,7 @@ img {
 
 .masthead {
   padding: 20px 0;
-  border-bottom: 1px solid $lightGray;
+  border-bottom: 1px solid $whiteSmoke;
 
   @include mobile {
     text-align: center;
@@ -198,14 +198,14 @@ img {
   cursor: pointer;
   font-family: $helveticaNeue;
   font-weight: normal;
-  font-size: 48px;
+  font-size: 52px;
   letter-spacing: 1px;
 }
 
 .site-description {
   float: right;
   margin: 0;
-  color: $oliveDrab;
+  color: $darkGreen;
   font-family: $helveticaNeue;
   font-weight: lighter;
   font-size: 22px;
@@ -217,11 +217,11 @@ img {
 
 nav {
   float: right;
-  margin-top: 90px;
+  margin-top: 104px;
   color: $black;
   font-family: $helveticaNeue;
-  font-weight: lighter;
-  font-size: 28px;
+  font-weight: normal;
+  font-size: 32px;
 
   @include mobile {
     float: none;
@@ -250,7 +250,7 @@ nav {
 
 .posts > .post {
   padding-bottom: 2em;
-  border-bottom: 1px solid $lightGray;
+  border-bottom: 1px solid $whiteSmoke;
 }
 
 .posts > .post:last-child {
@@ -282,7 +282,7 @@ nav {
   margin-top: 50px;
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
-  background-color: $lightGray;
+  background-color: $whiteSmoke;
 }
 
 footer {
