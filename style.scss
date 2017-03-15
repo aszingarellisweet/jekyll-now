@@ -19,9 +19,9 @@ html {
 
 body {
 	background: $white;
-  font: 18px/1.4 $helveticaNeue;
+  font: 16px/1.4 $helveticaNeue;
   color: $black;
-  font-weight: 150;
+  font-weight: 100;
 }
 
 .container {
@@ -34,7 +34,7 @@ body {
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
   color: $black;
-  font-weight: 200;
+  font-weight: 150;
 
   line-height: 1.7;
   margin: 1em 0 15px;
@@ -46,7 +46,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 32px;
+  font-size: 34px;
   a {
     color: inherit;
   }
@@ -54,7 +54,7 @@ h1 {
 
 h2 {
   font-size: 26px;
-color: $darkGray;
+color: $black;
 }
 
 h3 {
@@ -106,7 +106,7 @@ em, i {
 }
 
 strong, b {
-  font-weight: bold;
+  font-weight: normal;
 }
 
 img {
@@ -200,7 +200,7 @@ img {
   color: $black;
   cursor: crosshair;
   font-family: $helveticaNeue;
-  font-weight: 200;
+  font-weight: 100;
   font-size: 36px;
   letter-spacing: 1px;
 }
@@ -208,7 +208,7 @@ img {
 .site-description {
   margin: -5px 0 0 0;
   color: $green;
-  font-weight: 200;
+  font-weight: 100;
   font-size: 24px;
 
   @include mobile {
@@ -221,7 +221,7 @@ nav {
   margin-top: 48px;
   font-family: $helveticaNeue;
   font-size: 24px;
-  font-weight: 200;
+  font-weight: 100;
 
   @include mobile {
     float: none;
