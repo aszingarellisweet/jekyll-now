@@ -217,11 +217,9 @@ img {
 
 nav {
   float: right;
-  margin-top: 84px;
-  color: $black;
+  margin-top: 44px;
   font-family: $helveticaNeue;
-  font-weight: lighter;
-  font-size: 32px;
+  font-size: 22px;
 
   @include mobile {
     float: none;
@@ -233,17 +231,16 @@ nav {
   a {
     margin-left: 20px;
     color: $darkGray;
-  text-decoration: none;
-	cursor: crosshair;
-  &:hover, &:active {
-    color: $green;
-	  }
+    text-align: right;
+    font-weight: 300;
+    letter-spacing: 1px;
 
     @include mobile {
       margin: 0 10px;
-      color: $black;
+      color: $darkGray;
     }
   }
+}
 
 //
 // .main
