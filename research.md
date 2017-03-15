@@ -31,7 +31,7 @@ Paper presented at [Making Space/ <em>Créer l'espace</em>](http://ahgsa.concor
 
 ### 2008
 #### <em>Lux vivens</em>: Hildegard von Bingen and the Medieval Imaging of God as Light.
-Paper presented at Women’s History Month Research Panel, Gonzaga University, Spokane, WA, March 2008, and the American Academy of Religion – Society for Biblical Literature Northwest Regional Joint Meeting, George Fox University, Newberg, OR.
+Paper presented at Women’s History Month Research Panel, Gonzaga University, Spokane, WA, and the American Academy of Religion – Society for Biblical Literature Northwest Regional Joint Meeting, George Fox University, Newberg, OR.
 
 #### "That First Terrible Impression": The Role of Photography in Interpreting the San Francisco Earthquake and Fire of 1906.
 Paper presented at the Phi Alpha Theta Pacific Northwest Regional Conference. Gonzaga University, Spokane, WA.
