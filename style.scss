@@ -21,7 +21,7 @@ body {
 	background: $white;
   font: 18px/1.4 $helveticaNeue;
   color: $black;
-  font-weight: 200;
+  font-weight: 150;
 }
 
 .container {
@@ -54,10 +54,12 @@ h1 {
 
 h2 {
   font-size: 24px;
+color: $green;
 }
 
 h3 {
   font-size: 20px;
+  color: $darkGray
 }
 
 h4 {
@@ -277,7 +279,7 @@ nav {
 }
 
 .wrapper-footer {
-  margin-top: 30px;
+  margin-top: 60px;
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
   background-color: $lightCadetBlue;
