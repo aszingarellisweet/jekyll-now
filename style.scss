@@ -21,6 +21,7 @@ body {
 	background: $white;
   font: 18px/1.4 $helveticaNeue;
   color: $black;
+  font-weight: lighter;
 }
 
 .container {
@@ -32,8 +33,8 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
-  color: $darkGray;
-  font-weight: lighter;
+  color: $black;
+  font-weight: normal;
 
   line-height: 1.7;
   margin: 1em 0 15px;
@@ -61,7 +62,7 @@ h3 {
 
 h4 {
   font-size: 18px;
-  color: $gray;
+  color: $oliveDrab;
 }
 
 p {
@@ -181,7 +182,7 @@ img {
 }
 
 .site-info {
-  float: left;
+  float: right;
 
   @include mobile {
     float: none;
@@ -196,18 +197,18 @@ img {
   color: $black;
   cursor: pointer;
   font-family: $helveticaNeue;
-  font-weight: lighter;
-  font-size: 46px;
+  font-weight: normal;
+  font-size: 48px;
   letter-spacing: 1px;
 }
 
 .site-description {
   float: right;
   margin: 0;
-  color: $gray;
+  color: $oliveDrab;
   font-family: $helveticaNeue;
   font-weight: lighter;
-  font-size: 18px;
+  font-size: 22px;
 
   @include mobile {
     margin: 3px 0;
@@ -217,10 +218,10 @@ img {
 nav {
   float: right;
   margin-top: 90px;
-  color: $gray;
+  color: $black;
   font-family: $helveticaNeue;
   font-weight: lighter;
-  font-size: 22px;
+  font-size: 28px;
 
   @include mobile {
     float: none;
@@ -238,7 +239,7 @@ nav {
 
     @include mobile {
       margin: 0 10px;
-      color: $blue;
+      color: $darkGray;
     }
   }
 }
