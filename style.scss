@@ -163,6 +163,12 @@ img {
   }
 }
 
+div {
+	webkit-column-count: 2;
+	moz-column-count: 2;
+	column-count: 2;
+}
+
 .site-avatar {
   float: left;
   width: 70px;
@@ -228,6 +234,12 @@ nav {
     display: block;
     font-size: 16px;
   }
+	
+div {
+	webkit-column-count: 2;
+	moz-column-count: 2;
+	column-count: 2;
+	}
 
   a {
     margin-left: 20px;
