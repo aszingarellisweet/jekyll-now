@@ -237,13 +237,13 @@ nav {
 	cursor: crosshair;
   &:hover, &:active {
     color: $green;
+	  }
 
     @include mobile {
       margin: 0 10px;
       color: $black;
     }
   }
-}
 
 //
 // .main
@@ -294,4 +294,3 @@ footer {
 //Import of syntax highlighting
 @import "highlights";
 @import "svg-icons";
-}
