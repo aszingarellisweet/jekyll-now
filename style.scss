@@ -70,7 +70,7 @@ p {
 }
 
 a {
-  color: $black;
+  color: $darkGray;
   text-decoration: none;
 	cursor: crosshair;
   &:hover, &:active {
@@ -232,10 +232,11 @@ nav {
 
   a {
     margin-left: 20px;
-    color: $black;
-    text-align: right;
-    font-weight: lighter;
-    letter-spacing: 1px;
+    color: $darkGray;
+  text-decoration: none;
+	cursor: crosshair;
+  &:hover, &:active {
+    color: $green;
 
     @include mobile {
       margin: 0 10px;
