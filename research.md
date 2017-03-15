@@ -21,13 +21,16 @@ Lightning round talk organized by [Shannon Robinson](http://shannonmarierobinson
 
 Invited talk at ProQuest Day: <em>Transforming Libraries, Transforming Research</em>, American Library Association annual conference, Las Vegas, NV.
 
+
 [Digital Scholarship and the Institutional Repository: Insights from the Fine Arts](http://slides.com/anna-sophiazingarelli-sweet/institutional-repository#/). 
 
 Paper co-presented with Courtney Baron at <em>Data Driven: Digital Humanities in the Library</em>, Charleston, SC.
 
+
  [Gender and Sexuality in the Visual Arts: A Bibliographic Experiment](http://aszingarellisweet.files.wordpress.com/2014/05/zingarellisweetarlisposter.pdf). 
  
  Poster session at Art Libraries Society of North America annual conference, Washington, DC.
+
 
 [Describing Difference: Transparency, Methodology, and Diversity in Organizing Information](https://marac.memberclicks.net/assets/documents/marac_rochester_spring_2014_conf_program.pdf). 
 
@@ -44,6 +47,7 @@ Paper presented at [Making Space</a>/ <em>Créer l'espace</em>](http://ahgsa.co
 <em>Lux vivens</em>: Hildegard von Bingen and the Medieval Imaging of God as Light.
 
 Paper presented at Women’s History Month Research Panel, Gonzaga University, Spokane, WA, March 2008, and the American Academy of Religion – Society for Biblical Literature Northwest Regional Joint Meeting, George Fox University, Newberg, OR, May 2008.
+
 
 "That First Terrible Impression": The Role of Photography in Interpreting the San Francisco Earthquake and Fire of 1906.
 
@@ -62,6 +66,7 @@ Reassessing Claude Lorrain and the Landscape of Epic Action.
 
 Master's qualifying paper, Institute of Fine Arts, New York University (Thomas Crow).
 
+
 "The Shot That Others Would Not See:" Edith Irvine and the San Francisco Earthquake and Fire of 1906.
 
 Master's qualifying paper, Institute of Fine Arts, New York University (Linda Nochlin).
@@ -78,6 +83,7 @@ Master's first term paper, Institute of Fine Arts, New York University (Philippe
 
 Senior thesis, Department of Classics, Gonzaga University (Timothy Krall, S.J.).
 
+
 The Role of Photography in Interpreting the San Francisco Earthquake and Fire of 1906.
 
 Senior thesis, Department of History, Gonzaga University (RaGena De Aragon).
@@ -89,13 +95,16 @@ Senior thesis, Department of History, Gonzaga University (RaGena De Aragon).
 
 Complete documentation of a local metadata schema for a hypothetical digital multimedia collection on artist Marie Laurencin. Includes sample records and application profile table with mapping to Dublin Core and MODS. Capstone project for LIS 2407, Metadata.
 
+
 [Permissions Culture and Fair Use in the Visual Arts](https://aszingarellisweet.files.wordpress.com/2014/01/lis2184posterzingarelli.pdf) [(References)](https://aszingarellisweet.files.wordpress.com/2014/01/lis2184finalposterreferenceszingarelli.pdf). 
 
 Poster created for LIS 2184, Legal Issues in Information Handling. 
 
+
 [Offsite Repository Models](https://archive-it.org/collections/4498). 
 
 Web archive created in the Efficiencies and Expenses working group, LIS 2674, Preserving Digital Culture.
+
 
 [Dear Pittsburgh](http://vimeo.com/89700519). 
 
@@ -106,6 +115,7 @@ Video on digital obsolescence created for LIS 2674, Preserving Digital Culture.
 Improving the Storage Environment of the Jewish Museum Archives.
 
 A preservation policy and National Endowment for the Humanities grant proposal for the archival collections of The Jewish Museum, New York. Capstone project for LIS 2215, Preservation Management.
+
 
 [Visualizing Library Collections](http://slid.es/anna-sophiazingarelli-sweet/visualizing-library-collections): Lessons and Challenges from the Artists' Book Collection, Frick Fine Arts Library, University of Pittsburgh.
 
