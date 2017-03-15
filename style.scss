@@ -36,12 +36,12 @@ h1, h2, h3, h4, h5, h6 {
   color: $black;
   font-weight: 150;
 
-  line-height: 1.7;
+  line-height: 1.25;
   margin: 1em 0 15px;
   padding: 0;
 
   @include mobile {
-    line-height: 1.4;
+    line-height: 1.0;
   }
 }
 
@@ -53,13 +53,13 @@ h1 {
 }
 
 h2 {
-  font-size: 24px;
+  font-size: 22px;
 color: $black;
 }
 
 h3 {
-  font-size: 22px;
-  color: $chocolate;
+  font-size: 20px;
+  color: $sienna;
 }
 
 h4 {
