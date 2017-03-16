@@ -19,11 +19,9 @@ $lightGray: #eee;
 $white: #fff;
 
 // Font stacks
-@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400');
-$openSans: "Open Sans", sans-serif;
-$helvetica: Helvetica, Arial, sans-serif;
+@import url('https://fonts.googleapis.com/css?family=Montserrat:300,400');
+$montserrat: Montserrat, sans-serif;
 $helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;
-$georgia: Georgia, serif;
 
 // Mobile breakpoints
 @mixin mobile {
