@@ -19,9 +19,9 @@ html {
 
 body {
 	background: $white;
-  font: 16px/1.5 $helveticaNeue;
+  font: 16px/1.5 $openSans;
   color: $black;
-  font-weight: 100;
+  font-weight: lighter;
 }
 
 .container {
@@ -32,9 +32,9 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $helveticaNeue;
+  font-family: $openSans;
   color: $black;
-  font-weight: 100;
+  font-weight: lighter;
 
   line-height: 1.0;
   margin: 1em 0 15px;
@@ -199,8 +199,8 @@ img {
   margin: 0;
   color: $black;
   cursor: crosshair;
-  font-family: $helveticaNeue;
-  font-weight: 100;
+  font-family: $openSans;
+  font-weight: lighter;
   font-size: 36px;
   letter-spacing: 1px;
 }
@@ -208,7 +208,7 @@ img {
 .site-description {
   margin: -5px 0 0 0;
   color: $green;
-  font-weight: 100;
+  font-weight: lighter;
   font-size: 24px;
 
   @include mobile {
@@ -219,7 +219,7 @@ img {
 nav {
   float: left;
   margin-top: 48px;
-  font-family: $helveticaNeue;
+  font-family: $openSans;
   font-size: 24px;
   font-weight: 100;
 
@@ -234,7 +234,7 @@ nav {
     margin-right: 20px;
     color: $gray;
     text-align: left;
-    font-weight: 100;
+    font-weight: lighter;
     letter-spacing: 1px;
 
     @include mobile {
