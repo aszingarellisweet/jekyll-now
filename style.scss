@@ -19,7 +19,7 @@ html {
 
 body {
 	background: $white;
-  font: 16px/1.5 $openSans;
+  font: 16px/1.5 $montserrat;
   color: $black;
   font-weight: lighter;
 }
@@ -32,7 +32,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $openSans;
+  font-family: $montserrat;
   color: $black;
   font-weight: lighter;
 
@@ -199,7 +199,7 @@ img {
   margin: 0;
   color: $black;
   cursor: crosshair;
-  font-family: $openSans;
+  font-family: $montserrat;
   font-weight: lighter;
   font-size: 36px;
   letter-spacing: 1px;
@@ -219,7 +219,7 @@ img {
 nav {
   float: left;
   margin-top: 48px;
-  font-family: $openSans;
+  font-family: $montserrat;
   font-size: 24px;
   font-weight: 100;
 
