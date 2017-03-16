@@ -1,6 +1,7 @@
 ---
 layout: post
 title: We are unstoppable /
+permalink: /blog/we_are_unstoppable
 ---
 So here we are. I've resisted blogging [post-HLS](http://hacklibraryschool.com/author/aszingarellisweet/) because 1) two rounds of graduate school killed my enjoyment of writing, 2) I have a preconceived idea of what a "library blog" looks like and I haven't the enthusiasm to be a "library blogger," and 3) I feel uncomfortable with the notion of having an audience. I was poised to hammer out yet another tweet-storm, though, and nobody wants that, so... here we are.<!--more-->
 
