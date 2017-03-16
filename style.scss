@@ -201,7 +201,7 @@ img {
   cursor: crosshair;
   font-family: $montserrat;
   font-weight: normal;
-  font-size: 40px;
+  font-size: 38px;
   letter-spacing: 1px;
 }
 
@@ -218,9 +218,9 @@ img {
 
 nav {
   float: left;
-  margin-top: 80px;
+  margin-top: 102px;
   font-family: $montserrat;
-  font-size: 16px;
+  font-size: 14px;
   font-weight: lighter;
 
   @include mobile {
