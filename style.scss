@@ -72,7 +72,7 @@ p {
 }
 
 a {
-  color: $gray;
+  color: $darkCadetBlue;
   text-decoration: none;
 	cursor: crosshair;
   &:hover, &:active {
@@ -126,11 +126,11 @@ img {
 // Specify the color of the selection
 ::-moz-selection {
   color: $black;
-  background: $cadetBlue;
+  background: $darkOrange;
 }
 ::selection {
   color: $black;
-  background: $cadetBlue;
+  background: $darkOrange;
 }
 
 // Nicolas Gallagher's micro clearfix hack
@@ -232,14 +232,14 @@ nav {
 
   a {
     margin-right: 32px;
-    color: $gray;
+    color: $darkCadetBlue;
     text-align: left;
     font-weight: lighter;
     letter-spacing: 1px;
 
     @include mobile {
       margin: 0 10px;
-      color: $darkGray;
+      color: $darkCadetBlue;
     }
   }
 }
