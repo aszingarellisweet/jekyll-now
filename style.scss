@@ -186,7 +186,7 @@ img {
 
 .site-info {
   float: left;
-  margin-top: 60px;
+  margin-top: 48px;
 
   @include mobile {
     float: none;
@@ -200,8 +200,8 @@ img {
   color: $black;
   cursor: crosshair;
   font-family: $montserrat;
-  font-weight: normal;
-  font-size: 40px;
+  font-weight: lighter;
+  font-size: 38px;
   letter-spacing: 1px;
 }
 
@@ -218,7 +218,7 @@ img {
 
 nav {
   float: left;
-  margin-top: 96px;
+  margin-top: 72px;
   font-family: $montserrat;
   font-size: 14px;
   font-weight: lighter;
