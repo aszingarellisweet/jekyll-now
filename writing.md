@@ -3,12 +3,12 @@ layout: page
 title: Writing
 permalink: /writing/
 ---
-## Blogs
+## BLOGS
 [Hack Library School](http://hacklibraryschool.com/author/aszingarellisweet/)
 
 [HASTAC](http://www.hastac.org/users/aszingarelli)
 
-## Reviews
+## REVIEWS
 ### ALA GLBT Round Table Reviews
 Eribon, Didier. [*Returning to Reims*](http://www.glbtrt.ala.org/reviews/returning-to-reims/). August 2014.
 
