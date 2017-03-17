@@ -3,7 +3,7 @@ layout: page
 title: Work
 permalink: /work/
 ---
-## Selected Experience
+## SELECTED EXPERIENCE
 ### 2016 - Present
 Project Cataloger, [Autry Museum of the American West](https://theautry.org/research-collections/library-and-archives-autry).
 
@@ -15,7 +15,16 @@ Pitt Partners Intern, [Frick Fine Arts Library, University of Pittsburgh](http:/
 ### 2011 - 2012
 Outreach and Recruitment Associate, [Free Arts NYC](http://freeartsnyc.org).
 
-## Education
+## CURRENT PROFESSIONAL SERVICE
+### 2016 - Present
+Member, Diversity Committee, Rare Books and Manuscripts Section (RBMS), ACRL.
+Member, Publications and Communications Committee, RBMS.
+Metadata volunteer leader, DataRefuge, Penn Program in the Environmental Humanities.
+
+### 2014 - Present
+Peer Reviewer, *Art Documentation*, Art Libraries Society of North America (ArLiS/NA).
+
+## EDUCATION
 ### 2013 - 2014
 MLIS, Archives + Information Science, [University of Pittsburgh School of Information Sciences](http://ischool.pitt.edu/).
 
@@ -25,7 +34,7 @@ MA, History of Art + Archaeology, [New York University Institute of Fine Arts](h
 ### 2004 - 2008
 BA, History, Classical Languages + Literature, [Gonzaga University](http://www.gonzaga.edu/).
 
-## Selected Professional Development
+## SELECTED PROFESSIONAL DEVELOPMENT
 ### 2017
 "Data Modeling 201" (Code4Lib workshop)
 
