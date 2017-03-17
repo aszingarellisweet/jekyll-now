@@ -27,7 +27,7 @@ Paper presented at [Making Space/*Créer l'espace*](http://ahgsa.concordia.ca/a
 Paper presented at Women’s History Month Research Panel, Gonzaga University, Spokane, WA, and the American Academy of Religion – Society for Biblical Literature Northwest Regional Joint Meeting, George Fox University, Newberg, OR.
 #### "That First Terrible Impression": The Role of Photography in Interpreting the San Francisco Earthquake and Fire of 1906.  
 Paper presented at the Phi Alpha Theta Pacific Northwest Regional Conference. Gonzaga University, Spokane, WA.
-===
+
 ## PAPERS
 ### 2014
 #### Appraisal of Museum Records: The Case of the Indianapolis Museum of Art.
@@ -45,12 +45,12 @@ Master's first term paper, Institute of Fine Arts, New York University (Philippe
 Senior thesis, Department of Classics, Gonzaga University (Timothy Krall, S.J.).
 #### The Role of Photography in Interpreting the San Francisco Earthquake and Fire of 1906.
 Senior thesis, Department of History, Gonzaga University (RaGena De Aragon).
-===
+
 ## MISCELLANEA
 ### 2014
 #### [Metadata scheme for Marie Laurencin Digital Collection](http://laurencinwiki.pbworks.com/w/page/83396131/Introduction).
 Complete documentation of a local metadata schema for a hypothetical digital multimedia collection on artist Marie Laurencin. Includes sample records and application profile table with mapping to Dublin Core and MODS. Capstone project for LIS 2407, Metadata.
-#### [Permissions Culture and Fair Use in the Visual Arts](https://aszingarellisweet.files.wordpress.com/2014/01/lis2184posterzingarelli.pdf) [(References)](https://aszingarellisweet.files.wordpress.com/2014/01/lis2184finalposterreferenceszingarelli.pdf). 
+#### [Permissions Culture and Fair Use in the Visual Arts](https://aszingarellisweet.files.wordpress.com/2014/01/lis2184posterzingarelli.pdf) | [(References)](https://aszingarellisweet.files.wordpress.com/2014/01/lis2184finalposterreferenceszingarelli.pdf). 
 Poster created for LIS 2184, Legal Issues in Information Handling. 
 #### [Offsite Repository Models](https://archive-it.org/collections/4498). 
 Web archive created in the Efficiencies and Expenses working group, LIS 2674, Preserving Digital Culture.
@@ -60,7 +60,7 @@ Video on digital obsolescence created for LIS 2674, Preserving Digital Culture.
 #### Improving the Storage Environment of the Jewish Museum Archives.
 A preservation policy and National Endowment for the Humanities grant proposal for the archival collections of The Jewish Museum, New York. Capstone project for LIS 2215, Preservation Management.
 #### [Visualizing Library Collections](http://slid.es/aszingarellisweet/visualizing-library-collections): Lessons and Challenges from the Artists' Book Collection, Frick Fine Arts Library, University of Pittsburgh.
-Capstone project for LIS 2975, Digital Scholarship).
+Capstone project for LIS 2975, Digital Scholarship.
 ### 2010
-#### A Dynamic Presence: Women Artists at The Jewish Museum, New York, 1947-2010 [(Essay)](http://web.archive.org/web/20100912204721/http://www.thejewishmuseum.org/tjmwomenartistsessay) / [(Database)](https://perma.cc/CF2Z-AZTA).
+#### A Dynamic Presence: Women Artists at The Jewish Museum, New York, 1947-2010 | [(Essay)](http://web.archive.org/web/20100912204721/http://www.thejewishmuseum.org/tjmwomenartistsessay) | [(Database)](https://perma.cc/CF2Z-AZTA).
 A summary of my work as a graduate curatorial intern at The Jewish Museum on the exhibition [Shifting the Gaze: Painting and Feminism](http://www.thejewishmuseum.org/exhibitions/feministpainting) (September 12, 2010 - January 30, 2011), a [College Art Association Committee on Women in the Arts](http://www.collegeart.org/committees/picksoctober2010) pick for "the best in feminist art and scholarship."
