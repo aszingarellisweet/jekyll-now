@@ -11,15 +11,14 @@ I also encountered, however, the full spectrum of attitudes that enable and ent
 My tweets were a reaction to my colleagues' disbelief that people of color find themselves unwelcome -- and often outright oppressed -- in our profession, and to the advice frequently given to people of color who try to navigate success in this field and who may call out the obstacles they meet along the way.
 
 My thoughts on whiteness, labor, and memory work have been influenced by too many of you to name. For further reading, allow me to recommend:
-<ul>
-	<li>Des Alaniz, [Changing Tides? Diversity and Inclusion in the Society of American Archivists](https://hacklibraryschool.com/2016/09/07/changing-tides-di-in-saa/).</li>
-	<li>Chris Bourg, [The Unbearable Whiteness of Librarianship](https://chrisbourg.wordpress.com/2014/03/03/the-unbearable-whiteness-of-librarianship/).</li>
-	<li>Maureen Callahan, [Ethical Internships: Mentoring the Leaders We Need](https://icantiemyownshoes.wordpress.com/2015/11/04/ethical-internships-mentoring-the-leaders-we-need/).</li>
-	<li>Angela Galvan, [Soliciting Performance, Hiding Bias: Whiteness in Librarianship](http://www.inthelibrarywiththeleadpipe.org/2015/soliciting-performance-hiding-bias-whiteness-and-librarianship/).</li>
-	<li>Rebecca Goldman, [Advocating for Archives Without (Advocating for) Archivists](https://eatingouryoung.wordpress.com/2012/11/09/advocating-for-archives-without-advocating-for-archivists/).</li>
-	<li>April Hathcock, [White Librarianship in Blackface: Diversity Initiatives in LIS](http://www.inthelibrarywiththeleadpipe.org/2015/lis-diversity/).</li>
-	<li>Roxanne Shirazi, [Reproducing the Academy: Librarians and the Question of Service in the Digital Humanities](http://roxanneshirazi.com/2014/07/15/reproducing-the-academy-librarians-and-the-question-of-service-in-the-digital-humanities/).</li>
-</ul>
+* Des Alaniz, [Changing Tides? Diversity and Inclusion in the Society of American Archivists](https://hacklibraryschool.com/2016/09/07/changing-tides-di-in-saa/).  
+* Chris Bourg, [The Unbearable Whiteness of Librarianship](https://chrisbourg.wordpress.com/2014/03/03/the-unbearable-whiteness-of-librarianship/).  
+* Maureen Callahan, [Ethical Internships: Mentoring the Leaders We Need](https://icantiemyownshoes.wordpress.com/2015/11/04/ethical-internships-mentoring-the-leaders-we-need/).
+* Angela Galvan, [Soliciting Performance, Hiding Bias: Whiteness in Librarianship](http://www.inthelibrarywiththeleadpipe.org/2015/soliciting-performance-hiding-bias-whiteness-and-librarianship/).
+* Rebecca Goldman, [Advocating for Archives Without (Advocating for) Archivists](https://eatingouryoung.wordpress.com/2012/11/09/advocating-for-archives-without-advocating-for-archivists/).
+* April Hathcock, [White Librarianship in Blackface: Diversity Initiatives in LIS](http://www.inthelibrarywiththeleadpipe.org/2015/lis-diversity/).
+* Roxanne Shirazi, [Reproducing the Academy: Librarians and the Question of Service in the Digital Humanities](http://roxanneshirazi.com/2014/07/15/reproducing-the-academy-librarians-and-the-question-of-service-in-the-digital-humanities/).
+
 I've edited lightly for clarity and the shift in format, and added a few links. I keep my Twitter account locked, but I will happily accept follow requests from fellow librarians and library-adjacent folks; to view the original thread, start here:
 <blockquote class="twitter-tweet">
 <p dir="ltr" lang="en">Ok, IT'S TIME FOR SOME CRANKY LIBRARIAN THEORY. It is a truth universally acknowledged that our professional organizations run on free labor</p>
