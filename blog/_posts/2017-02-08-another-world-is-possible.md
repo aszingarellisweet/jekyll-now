@@ -16,8 +16,7 @@ Yesterday I re-read Umberto Eco's brilliant -- and regrettably timely -- 1995 e
 
 What are the defining features of Ur-Librarianship? We have, for better or worse, tried to distill them in our [Code of Ethics](http://www.ala.org/advocacy/proethics/codeofethics/codeethics), and a resounding theme of this year's Midwinter meeting was bringing everything back to those core values to advocate for our work both within and without of the library world. I haven't thought about the matter enough to propose my own fourteen points. But I do think that one point, around which librarianship might coagulate, is the shared -- and urgent -- vision that *Another world is possible*.
 
-[<img src="{{ site.baseurl }}/images/AefcQA0CIAIABQS-min.jpg" alt="Another world is possible" style="width: 250px;"/>]({{ site.baseurl }}/)  
-[caption]*[Author's own](https://twitter.com/aszingarelli/status/137320481308155906) grainy iPhone 3 photo from Occupy Wall Street, 2011-11-17.*[/caption]
+![[Light projection of text reading Another world is possible, seen by the author at Occupy Wall Street, 2011-11-17] {{ site.baseurl }}/images/AefcQA0CIAIABQS-min.jpg](https://twitter.com/aszingarelli/status/137320481308155906)
 
 China Miéville, in his introduction to [Verso's quincentenary edition](https://www.versobooks.com/books/2250-utopia) of More's *Utopia*, calls it "hope with teeth," and it's my own second core tenet. To hope with teeth is to let our belief in the project of human civilization and our frustration at the status quo get at one another destructively and generatively. It is to be certain that another world is both necessary and possible, and to try to achieve it by any means at our disposal.
 
