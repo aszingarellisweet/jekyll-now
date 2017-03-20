@@ -16,7 +16,7 @@ Outreach and Recruitment Associate, [Free Arts NYC](http://freeartsnyc.org).
 ### 2016 - Present
 Member, Diversity Committee, Rare Books and Manuscripts Section (RBMS), ACRL.  
 Member, Publications and Communications Committee, RBMS.  
-Metadata volunteer leader, DataRefuge, Penn Program in the Environmental Humanities.  
+Metadata volunteer leader, DataRefuge.  
 ### 2014 - Present
 Peer Reviewer, *Art Documentation*, Art Libraries Society of North America (ArLiS/NA).
 
