@@ -6,7 +6,7 @@ permalink: /research/
 ## PRESENTATIONS
 ### 2017
 #### [You've Heard the Jargon, Now Play the Game: Linked Data on Your Laptop](https://eventmobi.com/aall2017/speakers/213086/4838208).
-"Deep Dive" workshop organized by Jean M. Pajerek, to be co-taught at American Association of Law Libraries annual conference, Austin, TX.
+"Deep Dive" workshop organized by Jean M. Pajerek, co-taught at American Association of Law Libraries annual conference, Austin, TX.
 ### 2015
 #### [Moving the Needle: Advancing the Profession through Publishing](https://www.arlisna.org/news/featured-art-libraries/10-conferences/49-2015-conference-proceedings).  
 Lightning round talk organized by [Shannon Robinson](http://shannonmarierobinson.com/?page_id=2), Art Libraries Society of North America annual conference, Fort Worth, TX.
