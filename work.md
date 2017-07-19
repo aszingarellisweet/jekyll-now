@@ -4,7 +4,9 @@ title: Work
 permalink: /work/
 ---
 ## SELECTED EXPERIENCE
-### 2016 - Present
+### 2017 - Present
+Cataloging and Metadata Specialist, [California State University, Northridge](http://library.csun.edu/).
+### 2016 - 2017
 Project Cataloger, [Autry Museum of the American West](https://theautry.org/research-collections/library-and-archives-autry).
 ### 2013 - 2014
 Cataloging Intern, [Archives Service Center, University of Pittsburgh](http://www.library.pitt.edu/archives-service-center).  
@@ -16,7 +18,6 @@ Outreach and Recruitment Associate, [Free Arts NYC](http://freeartsnyc.org).
 ### 2016 - Present
 Member, Diversity Committee, Rare Books and Manuscripts Section (RBMS), ACRL.  
 Member, Publications and Communications Committee, RBMS.  
-Metadata volunteer leader, DataRefuge.  
 ### 2014 - Present
 Peer Reviewer, *Art Documentation*, Art Libraries Society of North America (ArLiS/NA).
 
