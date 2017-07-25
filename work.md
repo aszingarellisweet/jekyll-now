@@ -15,6 +15,8 @@ Pitt Partners Intern, [Frick Fine Arts Library, University of Pittsburgh](http:/
 Outreach and Recruitment Associate, [Free Arts NYC](http://freeartsnyc.org).
 
 ## CURRENT PROFESSIONAL SERVICE
+### 2017 - Present
+Member, Library Council, California State University, Northridge.
 ### 2016 - Present
 Member, Diversity Committee, Rare Books and Manuscripts Section (RBMS), ACRL.  
 Member, Publications and Communications Committee, RBMS.  
