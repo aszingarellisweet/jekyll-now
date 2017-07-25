@@ -3,7 +3,7 @@ layout: page
 title: Work
 permalink: /work/
 ---
-## SELECTED EXPERIENCE
+## SELECTED WORK EXPERIENCE
 ### 2017 - Present
 Cataloging and Metadata Specialist, [California State University, Northridge](http://library.csun.edu/).
 ### 2016 - 2017
@@ -11,8 +11,6 @@ Project Cataloger, [Autry Museum of the American West](https://theautry.org/rese
 ### 2013 - 2014
 Cataloging Intern, [Archives Service Center, University of Pittsburgh](http://www.library.pitt.edu/archives-service-center).  
 Pitt Partners Intern, [Frick Fine Arts Library, University of Pittsburgh](http://library.pitt.edu/fine-arts).
-### 2011 - 2012
-Outreach and Recruitment Associate, [Free Arts NYC](http://freeartsnyc.org).
 
 ## CURRENT PROFESSIONAL SERVICE
 ### 2017 - Present
@@ -54,9 +52,3 @@ BA, History, Classical Languages + Literature, [Gonzaga University](http://www.g
 "Grant and Proposal Writing." (National Network of Libraries of Medicine - Midatlantic Region webinar series)  
 
 "Using Book Art to Cultivate and Engage Library Supporters." (ArLiS/NA webinar)  
-### 2012
-"Volunteers Creating Change." (NYC Citizen Corps Disaster Volunteer Conference)  
-
-"Innovation in Service." (New York Cares Leadership Conference)  
-
-"Be Smart About Your Nonprofit's Finances." (Emerging Leaders in New York Arts workshop)
