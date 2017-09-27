@@ -3,6 +3,7 @@ layout: page
 title: Research
 permalink: /research/
 ---
+<a href="https://orcid.org/0000-0001-7077-4325" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">orcid.org/0000-0001-7077-4325</a>
 ## PRESENTATIONS
 ### 2017
 #### [You've Heard the Jargon, Now Play the Game: Linked Data on Your Laptop](https://eventmobi.com/aall2017/speakers/213086/4838208).
