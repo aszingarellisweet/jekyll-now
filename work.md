@@ -15,6 +15,7 @@ Pitt Partners Intern, [Frick Fine Arts Library, University of Pittsburgh](http:/
 ## CURRENT PROFESSIONAL SERVICE
 ### 2017 - Present
 Member, Library Council, California State University, Northridge.
+
 Member, Rare Books and Manuscripts Section (RBMS) Task Force to Revise the ACRL Code of Ethics for Special Collections Librarians.
 ### 2016 - Present
 Member, Diversity Committee, RBMS.  
