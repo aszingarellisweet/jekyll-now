@@ -15,8 +15,9 @@ Pitt Partners Intern, [Frick Fine Arts Library, University of Pittsburgh](http:/
 ## CURRENT PROFESSIONAL SERVICE
 ### 2017 - Present
 Member, Library Council, California State University, Northridge.
+Member, Rare Books and Manuscripts Section (RBMS) Task Force to Revise the ACRL Code of Ethics for Special Collections Librarians.
 ### 2016 - Present
-Member, Diversity Committee, Rare Books and Manuscripts Section (RBMS), ACRL.  
+Member, Diversity Committee, RBMS.  
 Member, Publications and Communications Committee, RBMS.  
 ### 2014 - Present
 Peer Reviewer, *Art Documentation*, Art Libraries Society of North America (ArLiS/NA).
@@ -31,6 +32,8 @@ BA, History, Classical Languages + Literature, [Gonzaga University](http://www.g
 
 ## SELECTED PROFESSIONAL DEVELOPMENT
 ### 2017
+"19th Century Materials and Technologies," "20th Century Materials and Technologies," and "21st Century Materials and Technologies." (Image Permanence Institute webinar series)
+
 "Data Modeling 201" (Code4Lib workshop)  
 
 "New Statistical Standard for Public Services in Archives and Special Collections." (SAA-RBMS webinar)
