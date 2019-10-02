@@ -1,9 +1,8 @@
 ---
 layout: page
-title: Experience
+title: Selected Experience
 permalink: /experience/
 ---
-## SELECTED WORK EXPERIENCE
 ### 2017 - Present
 Cataloging and Metadata Specialist, [California State University, Northridge](http://library.csun.edu/).
 ### 2016 - 2017
@@ -12,7 +11,7 @@ Project Cataloger, [Autry Museum of the American West](https://theautry.org/rese
 Cataloging Intern, [Archives Service Center, University of Pittsburgh](http://www.library.pitt.edu/archives-service-center).  
 Pitt Partners Intern, [Frick Fine Arts Library, University of Pittsburgh](http://library.pitt.edu/fine-arts).
 
-## EDUCATION
+## Education
 ### 2013 - 2014
 MLIS, Archives + Information Science, [University of Pittsburgh School of Information Sciences](http://ischool.pitt.edu/).
 ### 2009 - 2011
@@ -20,7 +19,7 @@ MA, History of Art + Archaeology, [New York University Institute of Fine Arts](h
 ### 2004 - 2008
 BA, History, Classical Languages + Literature, [Gonzaga University](http://www.gonzaga.edu/).
 
-## SELECTED PROFESSIONAL DEVELOPMENT
+## Selected Professional Development
 ### 2019
 "Special Collections Cataloging: Maps." (ALCTS webinar)
 
