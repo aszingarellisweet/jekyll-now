@@ -12,16 +12,6 @@ Project Cataloger, [Autry Museum of the American West](https://theautry.org/rese
 Cataloging Intern, [Archives Service Center, University of Pittsburgh](http://www.library.pitt.edu/archives-service-center).  
 Pitt Partners Intern, [Frick Fine Arts Library, University of Pittsburgh](http://library.pitt.edu/fine-arts).
 
-## CURRENT PROFESSIONAL SERVICE
-### 2017 - Present
-Member, Library Council, California State University, Northridge.  
-Member, Rare Books and Manuscripts Section (RBMS) Task Force to Revise the ACRL Code of Ethics for Special Collections Librarians. 
-### 2016 - Present
-Member, Diversity Committee, RBMS.  
-Member, Publications and Communications Committee, RBMS.  
-### 2014 - Present
-Peer Reviewer, *Art Documentation*, Art Libraries Society of North America (ArLiS/NA).
-
 ## EDUCATION
 ### 2013 - 2014
 MLIS, Archives + Information Science, [University of Pittsburgh School of Information Sciences](http://ischool.pitt.edu/).
@@ -31,6 +21,17 @@ MA, History of Art + Archaeology, [New York University Institute of Fine Arts](h
 BA, History, Classical Languages + Literature, [Gonzaga University](http://www.gonzaga.edu/).
 
 ## SELECTED PROFESSIONAL DEVELOPMENT
+### 2019
+"Special Collections Cataloging: Maps." (ALCTS webinar)
+
+"Word Essentials."(CSUN Universal Design Center Document Accessibility workshop)
+
+"Using LCSH Pattern Headings." (ALCTS webinar)
+
+"Cataloging Non-English Materials." (ALCTS webinar)
+### 2018
+NACO Training Online Workshop (Program for Cooperative Cataloging)
+
 ### 2017
 "19th Century Materials and Technologies," "20th Century Materials and Technologies," and "21st Century Materials and Technologies." (Image Permanence Institute webinar series)
 
