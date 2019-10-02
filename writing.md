@@ -17,8 +17,6 @@ Chalmers, Claudine. [*Chronicling the West for Harper's: Coast to Coast with Fre
 
 hoogland, renée c. [*A Violent Embrace: Art and Aesthetics After Representation*](http://arlisna.org/publications/reviews/408-a-violent-embrace-art-and-aesthetics-after-representation). September 2014.
 
-Jones, Kellie. *South of Pico: African American Artists in Los Angeles in the 1960s and 1970s.* Forthcoming, Summer 2017.
-
 Major, Judith K. [*Mariana Griswold Van Rensselaer: A Landscape Critic in the Gilded Age*](http://arlisna.org/images/reviews/2013/09/major.pdf). September-October 2013.
 
 Zemel, Carol. [*Looking Jewish: Visual Culture and Modern Diaspora*](https://arlisna.org/publications/reviews/743-looking-jewish-visual-culture-and-modern-diaspora). November 2015.
@@ -30,4 +28,4 @@ Bentkowska-Kafel, Anna, Trish Cashen, and Hazel Gardiner. [*Digital Art History
 Cloonan, Michèle V. [*Preserving Our Heritage: Perspectives from Antiquity to the Digital Age*](https://journals.ala.org/rusq/article/view/5871). Winter 2015.
 
 ### Society of American Archivists Reviews
-Wexler, Laura, et al. *Photogrammar*. Forthcoming, Spring 2017.
+Wexler, Laura, et al. [*Photogrammar*](https://reviews.americanarchivist.org/2017/11/13/photogrammar/). November 2017.
