@@ -72,7 +72,7 @@ p {
 }
 
 a {
-  color: $darkCadetBlue;
+  color: $blue;
   text-decoration: none;
 	cursor: crosshair;
   &:hover, &:active {
@@ -126,11 +126,11 @@ img {
 // Specify the color of the selection
 ::-moz-selection {
   color: $black;
-  background: $darkOrange;
+  background: $lightGreen;
 }
 ::selection {
   color: $black;
-  background: $darkOrange;
+  background: $lightGreen;
 }
 
 // Nicolas Gallagher's micro clearfix hack
@@ -159,7 +159,7 @@ img {
 
 .masthead {
   padding: 20px 0;
-  border-bottom: 1px solid $lightCadetBlue;
+  border-bottom: 1px solid $lightGreen;
 
   @include mobile {
     text-align: center;
@@ -232,14 +232,14 @@ nav {
 
   a {
     margin-right: 32px;
-    color: $darkCadetBlue;
+    color: $blue;
     text-align: left;
     font-weight: normal;
     letter-spacing: 1px;
 
     @include mobile {
       margin: 0 10px;
-      color: $darkCadetBlue;
+      color: $blue;
     }
   }
 }
@@ -250,7 +250,7 @@ nav {
 
 .posts > .post {
   padding-bottom: 2em;
-  border-bottom: 1px solid $lightCadetBlue;
+  border-bottom: 1px solid $lightGreen;
 }
 
 .posts > .post:last-child {
@@ -282,7 +282,7 @@ nav {
   margin-top: 60px;
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
-  background-color: $lightCadetBlue;
+  background-color: $lightGreen;
 }
 
 footer {
