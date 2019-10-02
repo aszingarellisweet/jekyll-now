@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Work
-permalink: /work/
+title: Experience
+permalink: /experience/
 ---
 ## SELECTED WORK EXPERIENCE
 ### 2017 - Present
