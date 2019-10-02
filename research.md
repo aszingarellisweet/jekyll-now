@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 <a href="https://orcid.org/0000-0001-7077-4325" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">orcid.org/0000-0001-7077-4325</a>
-## PRESENTATIONS
+## Presentations
 ### 2017
 #### [You've Heard the Jargon, Now Play the Game: Linked Data on Your Laptop](https://eventmobi.com/aall2017/speakers/213086/4838208).
 "Deep Dive" workshop organized by Jean M. Pajerek, co-taught at American Association of Law Libraries annual conference, Austin, TX.
@@ -29,7 +29,7 @@ Paper presented at Women’s History Month Research Panel, Gonzaga University, S
 #### "That First Terrible Impression": The Role of Photography in Interpreting the San Francisco Earthquake and Fire of 1906.  
 Paper presented at the Phi Alpha Theta Pacific Northwest Regional Conference. Gonzaga University, Spokane, WA.
 
-## PAPERS
+## Papers
 ### 2014
 #### Appraisal of Museum Records: The Case of the Indianapolis Museum of Art.
 Term paper for LIS 2222, Archival Appraisal, School of Information Sciences, University of Pittsburgh (Richard Cox).
@@ -47,7 +47,7 @@ Senior thesis, Department of Classics, Gonzaga University (Timothy Krall, S.J.).
 #### The Role of Photography in Interpreting the San Francisco Earthquake and Fire of 1906.
 Senior thesis, Department of History, Gonzaga University (RaGena De Aragon).
 
-## MISCELLANEA
+## Miscellanea
 ### 2014
 #### [Metadata scheme for Marie Laurencin Digital Collection](http://laurencinwiki.pbworks.com/w/page/83396131/Introduction).
 Complete documentation of a local metadata schema for a hypothetical digital multimedia collection on artist Marie Laurencin. Includes sample records and application profile table with mapping to Dublin Core and MODS. Capstone project for LIS 2407, Metadata.
