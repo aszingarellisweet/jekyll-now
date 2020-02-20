@@ -7,7 +7,7 @@ permalink: /research/
 ## Publications
 ### 2018
 #### [Roundtable: Should library workers learn to code?]( https://doi.org/10.21083/partnership.v12i2.4121).
-Tillman, R., Harnum, A., Robichaud, D., Zingarelli-Sweet, A.-S., & Houston, B. In *Partnership: The Canadian Journal of Library and Information Practice and Research, 12(2).
+Tillman, R., Harnum, A., Robichaud, D., Zingarelli-Sweet, A.-S., & Houston, B. In *Partnership: The Canadian Journal of Library and Information Practice and Research, 12(2).*
 
 ## Presentations
 ### 2017
