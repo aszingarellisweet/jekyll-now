@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Professional Service
+title:
 permalink: /service/
 ---
+## Professional Service
 Coming soon!
