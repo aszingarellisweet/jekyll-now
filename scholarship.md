@@ -7,7 +7,7 @@ permalink: /scholarship/
 ## Publications
 ### 2020
 #### Resource Review: Stanford University Libraries. *The Arthur Tress Photograph Collection: A Stanford Libraries Special Collections Exhibition*.
-*ArLiS/NA Reviews*, forthcoming April 2020.
+*ArLiS/NA Multimedia & Techbology Reviews*, forthcoming April 2020.
 
 ### 2018
 #### [Roundtable: Should library workers learn to code?]( https://doi.org/10.21083/partnership.v12i2.4121).
