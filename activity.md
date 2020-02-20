@@ -1,7 +1,7 @@
 ---
 layout: page
-title:
-permalink: /service/
+title: Professional Activity
+permalink: /activity/
 ---
 ## Professional Service
 Coming soon!
