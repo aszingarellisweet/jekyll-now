@@ -46,4 +46,3 @@ NACO Training Online Workshop (Program for Cooperative Cataloging)
 [Hack Library School](http://hacklibraryschool.com/author/aszingarellisweet/)
 
 [HASTAC](http://www.hastac.org/users/aszingarelli)
-
