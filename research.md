@@ -4,6 +4,11 @@ title: Research
 permalink: /research/
 ---
 <a href="https://orcid.org/0000-0001-7077-4325" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">orcid.org/0000-0001-7077-4325</a>
+## Publications
+### 2018
+#### Tillman, R., Harnum, A., Robichaud, D., Zingarelli-Sweet, A.-S., & Houston, B. [Roundtable: Should library workers learn to code?.]( https://doi.org/10.21083/partnership.v12i2.4121).
+Partnership: The Canadian Journal of Library and Information Practice and Research, 12(2).
+
 ## Presentations
 ### 2017
 #### [You've Heard the Jargon, Now Play the Game: Linked Data on Your Laptop](https://eventmobi.com/aall2017/speakers/213086/4838208).
