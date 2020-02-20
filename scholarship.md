@@ -6,7 +6,7 @@ permalink: /scholarship/
 <a href="https://orcid.org/0000-0001-7077-4325" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">orcid.org/0000-0001-7077-4325</a>
 ## Publications
 ### 2020
-Resource Review: Stanford University Libraries. *The Arthur Tress Photograph Collection: A Stanford Libraries Special Collections Exhibition*.
+#### Resource Review: Stanford University Libraries. *The Arthur Tress Photograph Collection: A Stanford Libraries Special Collections Exhibition*.
 *ArLiS/NA Reviews*, forthcoming April 2020.
 
 ### 2018
