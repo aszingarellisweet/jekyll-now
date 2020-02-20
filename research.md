@@ -45,8 +45,6 @@ Web archive created in the Efficiencies and Expenses working group, LIS 2674, Pr
 #### [Dear Pittsburgh](http://vimeo.com/89700519). 
 Video on digital obsolescence created for LIS 2674, Preserving Digital Culture.
 ### 2013
-#### Improving the Storage Environment of the Jewish Museum Archives.
-A preservation policy and National Endowment for the Humanities grant proposal for the archival collections of The Jewish Museum, New York. Capstone project for LIS 2215, Preservation Management.
 #### [Visualizing Library Collections](http://slid.es/aszingarellisweet/visualizing-library-collections): Lessons and Challenges from the Artists' Book Collection, Frick Fine Arts Library, University of Pittsburgh.
 Capstone project for LIS 2975, Digital Scholarship.
 ### 2010
