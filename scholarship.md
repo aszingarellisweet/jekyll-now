@@ -7,7 +7,7 @@ permalink: /scholarship/
 ## Publications
 ### 2020
 #### Resource Review: Stanford University Libraries. *The Arthur Tress Photograph Collection: A Stanford Libraries Special Collections Exhibition*.
-*ArLiS/NA Multimedia & Techbology Reviews*, forthcoming April 2020.
+*ArLiS/NA Multimedia & Technology Reviews*, forthcoming April 2020.
 
 ### 2018
 #### [Roundtable: Should library workers learn to code?]( https://doi.org/10.21083/partnership.v12i2.4121).
@@ -66,12 +66,7 @@ Paper presented at Women’s History Month Research Panel, Gonzaga University, S
 #### "That First Terrible Impression": The Role of Photography in Interpreting the San Francisco Earthquake and Fire of 1906.  
 Paper presented at the Phi Alpha Theta Pacific Northwest Regional Conference. Gonzaga University, Spokane, WA.
 
-## Blogs
-[Hack Library School](http://hacklibraryschool.com/author/aszingarellisweet/)
-
-[HASTAC](http://www.hastac.org/users/aszingarelli)
-
-## Miscellanea
+## Selected Projects
 ### 2014
 #### [Metadata scheme for Marie Laurencin Digital Collection](http://laurencinwiki.pbworks.com/w/page/83396131/Introduction).
 Complete documentation of a local metadata schema for a hypothetical digital multimedia collection on artist Marie Laurencin. Includes sample records and application profile table with mapping to Dublin Core and MODS. Capstone project for LIS 2407, Metadata.
