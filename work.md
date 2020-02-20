@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Selected Experience
+title:
 permalink: /experience/
 ---
+## Selected Experience
 ### 2020 - Present
 Assistant Librarian, [George Eastman Museum](https://www.eastman.org/richard-and-ronay-menschel-library).
 ### 2017 - 2020
