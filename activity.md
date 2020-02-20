@@ -1,16 +1,9 @@
 ---
 layout: page
-title: Professional Activity
 permalink: /activity/
 ---
 ## Professional Service
 Coming soon!
-
-
-## Blogs
-[Hack Library School](http://hacklibraryschool.com/author/aszingarellisweet/)
-
-[HASTAC](http://www.hastac.org/users/aszingarelli)
 
 ## Selected Professional Development
 ### 2019
@@ -48,4 +41,9 @@ NACO Training Online Workshop (Program for Cooperative Cataloging)
 "Grant and Proposal Writing." (National Network of Libraries of Medicine - Midatlantic Region webinar series)  
 
 "Using Book Art to Cultivate and Engage Library Supporters." (ArLiS/NA webinar)  
+
+## Blogs
+[Hack Library School](http://hacklibraryschool.com/author/aszingarellisweet/)
+
+[HASTAC](http://www.hastac.org/users/aszingarelli)
 
