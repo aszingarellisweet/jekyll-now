@@ -6,8 +6,8 @@ permalink: /research/
 <a href="https://orcid.org/0000-0001-7077-4325" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">orcid.org/0000-0001-7077-4325</a>
 ## Publications
 ### 2018
-#### Tillman, R., Harnum, A., Robichaud, D., Zingarelli-Sweet, A.-S., & Houston, B. [Roundtable: Should library workers learn to code?]( https://doi.org/10.21083/partnership.v12i2.4121).
-Partnership: The Canadian Journal of Library and Information Practice and Research, 12(2).
+#### [Roundtable: Should library workers learn to code?]( https://doi.org/10.21083/partnership.v12i2.4121).
+Tillman, R., Harnum, A., Robichaud, D., Zingarelli-Sweet, A.-S., & Houston, B. In *Partnership: The Canadian Journal of Library and Information Practice and Research, 12(2).
 
 ## Presentations
 ### 2017
@@ -33,24 +33,6 @@ Paper presented at [Making Space/*Créer l'espace*](http://ahgsa.concordia.ca/a
 Paper presented at Women’s History Month Research Panel, Gonzaga University, Spokane, WA, and the American Academy of Religion – Society for Biblical Literature Northwest Regional Joint Meeting, George Fox University, Newberg, OR.
 #### "That First Terrible Impression": The Role of Photography in Interpreting the San Francisco Earthquake and Fire of 1906.  
 Paper presented at the Phi Alpha Theta Pacific Northwest Regional Conference. Gonzaga University, Spokane, WA.
-
-## Papers
-### 2014
-#### Appraisal of Museum Records: The Case of the Indianapolis Museum of Art.
-Term paper for LIS 2222, Archival Appraisal, School of Information Sciences, University of Pittsburgh (Richard Cox).
-### 2011
-#### Reassessing Claude Lorrain and the Landscape of Epic Action.
-Master's qualifying paper, Institute of Fine Arts, New York University (Thomas Crow).
-#### "The Shot That Others Would Not See:" Edith Irvine and the San Francisco Earthquake and Fire of 1906.
-Master's qualifying paper, Institute of Fine Arts, New York University (Linda Nochlin).
-### 2009
-#### From "Curator-Artist" to "Curator-Curator": Luigi Lanzi and the Professionalization of Curatorship, 1775-1810.
-Master's first term paper, Institute of Fine Arts, New York University (Philippe de Montebello).
-### 2008
-#### *Sum pius Aeneas*: Virgil, Charlemagne, and the *Chanson de Roland.*
-Senior thesis, Department of Classics, Gonzaga University (Timothy Krall, S.J.).
-#### The Role of Photography in Interpreting the San Francisco Earthquake and Fire of 1906.
-Senior thesis, Department of History, Gonzaga University (RaGena De Aragon).
 
 ## Miscellanea
 ### 2014
