@@ -14,14 +14,6 @@ Project Cataloger, [Autry Museum of the American West](https://theautry.org/rese
 Cataloging Intern, [Archives Service Center, University of Pittsburgh](http://www.library.pitt.edu/archives-service-center).  
 Pitt Partners Intern, [Frick Fine Arts Library, University of Pittsburgh](http://library.pitt.edu/fine-arts).
 
-## Education
-### 2014
-MLIS, Archives + Information Science, [University of Pittsburgh School of Information Sciences](http://ischool.pitt.edu/).
-### 2011
-MA, History of Art + Archaeology, [New York University Institute of Fine Arts](http://www.nyu.edu/gsas/dept/fineart/).
-### 2008
-BA, History, Classical Languages + Literature, [Gonzaga University](http://www.gonzaga.edu/).
-
 ## Selected Professional Development
 ### 2019
 "Special Collections Cataloging: Maps." (ALCTS webinar)
