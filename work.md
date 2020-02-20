@@ -1,6 +1,5 @@
 ---
 layout: page
-title:  
 permalink: /experience/
 ---
 ## Selected Work Experience
