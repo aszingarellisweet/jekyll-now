@@ -5,15 +5,20 @@ permalink: /scholarship/
 ---
 <a href="https://orcid.org/0000-0001-7077-4325" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">orcid.org/0000-0001-7077-4325</a>
 ## Publications
-### 2017
+### 2020
+Resource Review: Stanford University Libraries. *The Arthur Tress Photograph Collection: A Stanford Libraries Special Collections Exhibition.
+ArLiS/NA Reviews, forthcoming.
+
+### 2018
 #### [Roundtable: Should library workers learn to code?]( https://doi.org/10.21083/partnership.v12i2.4121).
 With Ruth Tillman, Alan Harnum, Danielle Robichaud, and Brad Houston.
 *Partnership: The Canadian Journal of Library and Information Practice and Research* 12(2).
 
+### 2017
 #### Resource Review: Wexler, Laura, et al. [*Photogrammar*](https://reviews.americanarchivist.org/2017/11/13/photogrammar/). 
 *Society of American Archivists Reviews*, November 2017.
 
-## 2015
+### 2015
 #### Book Review: Cloonan, Michèle V. [*Preserving Our Heritage: Perspectives from Antiquity to the Digital Age*](https://doi.org/10.5860/rusq.55n2.171b).
 *Reference and User Services Quarterly* 55(2).
 
