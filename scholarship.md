@@ -8,7 +8,7 @@ permalink: /scholarship/
 #### Review: *The Arthur Tress Photograph Collection: A Stanford Libraries Special Collections Exhibition*.
 *ArLiS/NA Multimedia & Technology Reviews*, forthcoming April 2020.
 ### 2018
-#### [Roundtable: Should library workers learn to code?]( https://doi.org/10.21083/partnership.v12i2.4121).
+#### [Roundtable: Should library workers learn to code?]( https://doi.org/10.21083/partnership.v12i2.4121)
 With Ruth Tillman, Alan Harnum, Danielle Robichaud, and Brad Houston.
 *Partnership: The Canadian Journal of Library and Information Practice and Research* 12(2).
 ### 2017
