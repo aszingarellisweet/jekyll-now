@@ -18,4 +18,5 @@ Outreach and Recruitment Associate, [Free Arts NYC](freeartsnyc.org)
 Student Assistant II, [Stephen Chan Library of Fine Arts, New York University](https://www.nyu.edu/gsas/dept/fineart/research/library-ifa.htm)
 ### 2006 - 2008
 Student Assistant, [Foley Library Special Collections, Gonzaga University](https://www.gonzaga.edu/foley-library/university-archives-and-special-collections)
+
 Foley Library Student Employee of the Year, 2008
