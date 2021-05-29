@@ -27,8 +27,6 @@ Diversity Committee, 7/2016-7/2018
 Publications and Communications Committee, 7/2016-7/2018
 
 ## Selected Professional Development
-### 2021
-Coming soon!
 ### 2020
 "Wax." (Workshop with Alex Gil, hosted by Electric Marronage. Wax is a minimal computing project for digital exhibitions.)
 ### 2019
