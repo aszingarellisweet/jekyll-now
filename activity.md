@@ -21,6 +21,10 @@ Diversity Committee, 7/2016-7/2018
 Publications and Communications Committee, 7/2016-7/2018
 
 ## Selected Professional Development
+### 2021
+Coming soon!
+### 2020
+Coming soon!
 ### 2019
 "Special Collections Cataloging: Maps." (ALCTS webinar)
 
