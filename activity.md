@@ -9,15 +9,21 @@ Alma Analytics Planning Group, 2/2021-4/2021
 Primo Normalization Rules Task Force, 9/2018-1/2020
 #### California State University, Northridge - University Library
 Library Council, 7/2017-7/2019 (Chair 7/2018-1/2019)
+
 Staff Retreat Planning Committee, 8/2018-1/2019
+
 National Poetry Month Committee, 2/2018-4/2018
 #### Art Libraries Society of North America
 *Multimedia and Technology Reviews*, 4/2020-Present
+
 *Art Documentation*, Peer Reviewer 4/2014-Present
+
 *ArLiS/NA Reviews*, Book Reviewer 9/2013-11/2015
 #### Association of College and Research Libraries, Rare Books and Manuscript Section
 Task Force to Review the Code of Ethics for Special Collections Librarians, 7/2017-7/2019
+
 Diversity Committee, 7/2016-7/2018
+
 Publications and Communications Committee, 7/2016-7/2018
 
 ## Selected Professional Development
