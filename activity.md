@@ -3,9 +3,9 @@ layout: page
 permalink: /activity/
 ---
 ## Selected Professional Service
-#### **University of Rochester, River Campus Libraries and Affiliates**
+### University of Rochester, River Campus Libraries and Affiliates
 Alma Analytics Planning Group, 2/2021-4/2021
-#### **California State University, Unified Library Management System**
+##### California State University, Unified Library Management System
 Primo Normalization Rules Task Force, 9/2018-1/2020
 #### **California State University, Northridge - University Library**
 Library Council, 7/2017-7/2019 (Chair 7/2018-1/2019)
