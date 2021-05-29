@@ -5,8 +5,8 @@ permalink: /scholarship/
 <a href="https://orcid.org/0000-0001-7077-4325" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">orcid.org/0000-0001-7077-4325</a>
 ## Publications
 ### 2020
-#### Review: *The Arthur Tress Photograph Collection: A Stanford Libraries Special Collections Exhibition*.
-*ArLiS/NA Multimedia & Technology Reviews*, forthcoming April 2020.
+#### Review: [*The Arthur Tress Photograph Collection: A Stanford Libraries Special Collections Exhibition*](https://www.arlisna.org/publications/multimedia-technology-reviews/2039-arthur-tress-photograph-collection).
+*ArLiS/NA Multimedia & Technology Reviews*, April 2020.
 ### 2018
 #### [Roundtable: Should library workers learn to code?]( https://doi.org/10.21083/partnership.v12i2.4121)
 With Ruth Tillman, Alan Harnum, Danielle Robichaud, and Brad Houston.
