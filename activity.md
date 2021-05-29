@@ -30,7 +30,7 @@ Publications and Communications Committee, 7/2016-7/2018
 ### 2021
 Coming soon!
 ### 2020
-Coming soon!
+"Wax." (Workshop with Alex Gil, hosted by Electric Marronage. Wax is a minimal computing project for digital exhibitions.)
 ### 2019
 "Special Collections Cataloging: Maps." (ALCTS webinar)
 
